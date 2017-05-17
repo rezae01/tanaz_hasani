@@ -1,0 +1,6 @@
+c:\users\areza\documents\visual studio 2017\Projects\WebApplication5\WebApplication5\bin\Debug\netcoreapp1.1\WebApplication5.deps.json
+c:\users\areza\documents\visual studio 2017\Projects\WebApplication5\WebApplication5\bin\Debug\netcoreapp1.1\WebApplication5.runtimeconfig.json
+c:\users\areza\documents\visual studio 2017\Projects\WebApplication5\WebApplication5\bin\Debug\netcoreapp1.1\WebApplication5.runtimeconfig.dev.json
+c:\users\areza\documents\visual studio 2017\Projects\WebApplication5\WebApplication5\bin\Debug\netcoreapp1.1\WebApplication5.dll
+c:\users\areza\documents\visual studio 2017\Projects\WebApplication5\WebApplication5\obj\Debug\netcoreapp1.1\WebApplication5.csprojResolveAssemblyReference.cache
+c:\users\areza\documents\visual studio 2017\Projects\WebApplication5\WebApplication5\obj\Debug\netcoreapp1.1\WebApplication5.AssemblyInfo.cs
